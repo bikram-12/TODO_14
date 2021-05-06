@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TODO_13</string>
+    <string name="set">Setting</string>
+    <string name="order">Order</string>
+    <string name="con">Contact</string>
+    <string name="fav">Favourite</string>
+    <string name="textview">Donuts are good and sprinkled wtih candy</string>
+    <string name="textview3">Ice cream sandwiches gave chocolate wafers and vanilla fillina </string>
+    <string name="textview4">Froyos premium self-serve frozon yogurt </string>
+    <string-array name="spin">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
